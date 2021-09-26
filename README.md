@@ -6,6 +6,15 @@
 - 🌱 I’m currently learning JavaScript :)
 - 🕸️ I do have a website! https://mimicate.me/
 - Feel free to contact me: go@mimicate.me
+
+### To-Do
+
+[x] Get a normal laptop
+[] Win InnoCTF Junior
+[] End up my education
+[] Get a job
+[] Finish learning JS
+[] Get a certificate confirming that I know English
 <!--
 **deepatlantic312/deepatlantic312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

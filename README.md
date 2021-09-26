@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am deepatlantic312, you can also call me Deep.
+```I am deepatlantic312, you can also call me Deep.```
 
 - 🔭 I’m currently working on some internal projects.
 - 🌱 I’m currently learning JavaScript :)

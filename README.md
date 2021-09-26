@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
 
+I am deepatlantic312, you can also call me Deep.
+
+- 🔭 I’m currently working on some internal projects.
+- 🌱 I’m currently learning JavaScript :)
+- 🕸️ I do have a website! https://mimicate.me/
+- Feel free to contact me: go@mimicate.me
 <!--
 **deepatlantic312/deepatlantic312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

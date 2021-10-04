@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on some internal projects.
 - 🌱 I’m currently learning JavaScript :)
 - 🕸️ I do have a website! https://mimicate.me/
-- Feel free to contact me: go@mimicate.me
+- Feel free to contact me: me@mimicate.me
 
 ### To-Do
 

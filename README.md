@@ -10,7 +10,7 @@
 ### To-Do
 
 - [x] Get a normal laptop
-- [ ] Win InnoCTF Junior
+- [x] Win InnoCTF Junior
 - [ ] End up my education
 - [ ] Get a job
 - [ ] Finish learning JS
